@@ -1,11 +1,12 @@
-﻿name,address,phone,email,lat,lng,url,country,state,city,star_count,rating_count,zip,primary_category_name,category_name,Facebook Profile,Instagram Handle,LinkedIn,Twitter,WhatsApp,YouTube,TikTok
-"Smart parking","Medina Building, Tesema Aba Kemaw St, Addis Ababa, Ethiopia","","",9.0330206,38.7417838,"","Ethiopia","Addis Ababa","Addis Ababa",0,0,"","Parking lots","Parking lots","","","","","","",""
-"Aba Dina Radio Station","3P3M+6WC, Sheh Ojele St, Addis Ababa, Ethiopia","","",9.0530543,38.7347796,"","Ethiopia","Addis Ababa","Addis Ababa",5,1,"","Parking lots","Parking lots","","","","","","",""
-"Zenbework squere","XPP5+VC3, Addis Ababa, Ethiopia","","",8.9871333,38.7085438,"","Ethiopia","Addis Ababa","Addis Ababa",4.3,4,"","Parking lots","Parking lots","","","","","","",""
-"4 Menta | አራት መንታ | Ride Station","2PQV+W67, Addis Ababa, Ethiopia","","",9.0400382,38.742924,"","Ethiopia","Addis Ababa","Addis Ababa",5,1,"","Parking lots","Parking lots","","","","","","",""
-"የኤርፖርት ራይድ መጫኛ ማውረጃ ስፍራ","XQPW+468, Addis Ababa, Ethiopia","","",8.9852782,38.7955641,"","Ethiopia","Addis Ababa","Addis Ababa",0,0,"","Parking lots","Parking lots","","","","","","",""
-"ጣፎኮንዶሚኒየም","2VXH+9GC, Addis Ababa, Ethiopia","","",9.0484444,38.8787756,"","Ethiopia","Addis Ababa","Addis Ababa",4,2,"","Parking lots","Parking lots","","","","","","",""
-"እንቁጢ የፓርኪንግ አገልግሉት parking","XPVX+53X, Addis Ababa, Ethiopia","+251 92 132 3501","",8.9929759,38.74775,"","Ethiopia","Addis Ababa","Addis Ababa",5,1,"","Parking lots","Parking lots","","","","","","",""
-"Victor Door Parking","XPVH+XHW, Addis Ababa, Ethiopia","","",8.9949883,38.7289434,"","Ethiopia","Addis Ababa","Addis Ababa",5,1,"","Parking lots","Parking lots","","","","","","",""
-"Kasanches Parking","2Q8C+J9C, Zewditu St, Addis Ababa, Ethiopia","","",9.0165524,38.7708877,"","Ethiopia","Addis Ababa","Addis Ababa",4,1,"","Parking lots","Parking lots","","","","","","",""
-"Addis Ababa University Parking lot","VRM5+MVM, Addis Ababa, Ethiopia","","",8.8842127,38.8096839,"","Ethiopia","Addis Ababa","Addis Ababa",4.5,2,"","Parking lots","Parking lots","","","","","","",""
+name,address,phone,email,lat,lng,url,country,state,city,star_count,rating_count,zip,primary_category_name,category_name,Facebook Profile,Instagram Handle,LinkedIn,Twitter,WhatsApp,YouTube,TikTok
+Smart parking,"Medina Building, Tesema Aba Kemaw St, Addis Ababa, Ethiopia",,,9.0330206,38.7417838,,Ethiopia,Addis Ababa,Addis Ababa,0,0,,Parking lots,Parking lots,,,,,,,
+Aba Dina Radio Station,"3P3M+6WC, Sheh Ojele St, Addis Ababa, Ethiopia",,,9.0530543,38.7347796,,Ethiopia,Addis Ababa,Addis Ababa,5,1,,Parking lots,Parking lots,,,,,,,
+Zenbework squere,"XPP5+VC3, Addis Ababa, Ethiopia",,,8.9871333,38.7085438,,Ethiopia,Addis Ababa,Addis Ababa,4.3,4,,Parking lots,Parking lots,,,,,,,
+4 Menta Ride Station,"2PQV+W67, Addis Ababa, Ethiopia",,,9.0400382,38.742924,,Ethiopia,Addis Ababa,Addis Ababa,5,1,,Parking lots,Parking lots,,,,,,,
+Abrehot Library,"2QJ7+25, Addis Ababa, Ethiopia",,,8.9852782,38.7955641,,Ethiopia,Addis Ababa,Addis Ababa,0,0,,Parking lots,Parking lots,,,,,,,
+Adwa Museum,"2VXH+9GC, Addis Ababa, Ethiopia",,,9.0484444,38.8787756,,Ethiopia,Addis Ababa,Addis Ababa,4,2,,Parking lots,Parking lots,,,,,,,
+Eliana Hotel,"2QJ2+5F Addis Ababa, Ethiopia",+251 92 132 3501,,8.9929759,38.74775,,Ethiopia,Addis Ababa,Addis Ababa,5,1,,Parking lots,Parking lots,,,,,,,
+Victor Door Parking,"XPVH+XHW, Addis Ababa, Ethiopia",,,8.9949883,38.7289434,,Ethiopia,Addis Ababa,Addis Ababa,5,1,,Parking lots,Parking lots,,,,,,,
+Kasanches Parking,"2Q8C+J9C, Zewditu St, Addis Ababa, Ethiopia",,,9.0165524,38.7708877,,Ethiopia,Addis Ababa,Addis Ababa,4,1,,Parking lots,Parking lots,,,,,,,
+Addis Ababa University Parking lot,"VRM5+MVM, Addis Ababa, Ethiopia",,,8.8842127,38.8096839,,Ethiopia,Addis Ababa,Addis Ababa,4.5,2,,Parking lots,Parking lots,,,,,,,
+Meskel Square,2Q66+3G Addis Ababa,,,,,,,,,,,,,,,,,,,,
